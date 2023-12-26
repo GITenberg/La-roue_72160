@@ -1,5 +1,8 @@
 _repo: La-roue_72160
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72160-h/images/cover.jpg
 creator:
   author:
     agent_name: Faure, Élie
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/%C3%89lie_Faure
     - https://fr.wikipedia.org/wiki/%C3%89lie_Faure
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72160#La-roue
 gutenberg_issued: '2023-11-18'
 identifiers:
   gutenberg: '72160'
